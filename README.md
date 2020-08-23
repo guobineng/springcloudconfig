@@ -1,0 +1,2 @@
+# springcloudconfig
+测试springcloud的config模块功能
